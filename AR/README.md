@@ -1,0 +1,1 @@
+Small C plus plus project for practicing linked structures and node insertion logic.
